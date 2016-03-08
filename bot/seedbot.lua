@@ -229,10 +229,10 @@ function create_config( )
     sudo_users = {53406884,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[e.l.t-bot v2
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/elt11bot/e.l.t-bot
 
 Admins
 @aryanes81[Founder]
@@ -241,12 +241,12 @@ Admins
 @aryanes81[Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+aryan
+amipga
+va kheyli haye dg....
+.
 
-Our channels
+channel haye ma:
 @elt_bot1[English]
 @elt_bot1 [persian]
 ]],
